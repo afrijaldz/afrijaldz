@@ -1,16 +1,14 @@
-### Hi there 👋
+## Hi 👋, I'm Afrijal Dzuhri
 
-<!--
-**afrijaldz/afrijaldz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![HTML](https://img.shields.io/badge/HTML-Expert-orange)
+![CSS](https://img.shields.io/badge/CSS-Expert-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-Expert-yellow)
+![TypeScript](https://img.shields.io/badge/TypeScript-Intermediate-lightgrey)
+![GO](https://img.shields.io/badge/GO-Intermediate-lightgrey)
 
-Here are some ideas to get you started:
+#### I'm a Frontend Developer working in Yogyakarta, Indonesia. I also have some abilities in Backend.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🏢 I'm currently working at **Santara**
+- ⚙️ My daily uses: `.js`, `.ts`, `.html`, `.css`
+- 🌱 Recently I'm interested learning about automation and web performance
+- 📫 Reach me: [afrijaldzuhri.com](https://afrijaldzuhri.com)
