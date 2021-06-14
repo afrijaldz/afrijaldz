@@ -11,4 +11,4 @@
 - 🏢 I'm currently working at **Santara**
 - ⚙️ My daily uses: `.js`, `.ts`, `.html`, `.css`
 - 🌱 Recently I'm interested learning about automation and web performance
-- 📫 Reach me: [afrijaldzuhri.com](https://afrijaldzuhri.com)
+- 📫 Reach me: [ijuldz@gmail.com](mailto:ijuldz@gmail.com)
