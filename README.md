@@ -8,7 +8,7 @@
 
 #### I'm a Frontend Developer working in Yogyakarta, Indonesia. I also have some abilities in Backend.
 
-- 🏢 I'm currently working at **Santara**
+- 🏢 I'm currently working at **Privy**
 - ⚙️ My daily uses: `.js`, `.ts`, `.html`, `.css`
 - 🌱 Recently I'm interested learning about automation and web performance
 - 📫 Reach me: [ijuldz@gmail.com](mailto:ijuldz@gmail.com)
