@@ -10,4 +10,4 @@
 
 - ⚙️ My daily uses: `.ts`, `.html`, `.css`, `.go`
 - 🌱 Recently I'm interested learning about web performance
-- 📫 Reach me: [ijuldz@gmail.com](mailto:ijuldz@gmail.com)
+- 📫 Reach me: [hi@afrijal.dev](mailto:hi@afrijal.dev)
