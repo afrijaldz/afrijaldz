@@ -83,8 +83,8 @@ On GitHub since 2015 — a decade of building, breaking, and learning. Roughly h
 ## GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=afrijaldz&show_icons=true&hide_border=true&theme=default" alt="GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afrijaldz&layout=compact&hide_border=true&theme=default" alt="Top languages" height="165"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=afrijaldz&theme=default" alt="GitHub stats" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=afrijaldz&theme=default" alt="Top languages by commit" height="180"/>
 </p>
 
 <p align="center">
