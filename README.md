@@ -22,6 +22,28 @@ I'm a software engineer who enjoys learning by building — and occasionally bre
 - 💬 Happy to chat about backend architecture, Web3, or side-project ideas
 - 🍜 Open to interesting opportunities — say hi at hi@afrijal.dev
 
+## Journey
+
+On GitHub since 2015 — a decade of building, breaking, and learning. Roughly how it went:
+
+| Era | What I was doing |
+|---|---|
+| **2025 – now** | Full-time in Web3 & DeFi: stablecoin infrastructure, on-chain indexers, order matching & settlement engines, and Solidity contracts with Foundry. Thousands of commits a year across backend, frontend, and smart contracts. |
+| **2024** | Broadened the toolbox: Astro sites, a Rails API, Docker/Postgres setups, and community projects for [WonogiriSpace](https://github.com/WonogiriSpace). |
+| **2020 – 2023** | Went deep on the Vue ecosystem — Vue 3, Nuxt, Pinia, Deno, TypeScript. Built my own wedding invitation platform end-to-end (Vue + admin + API) and contributed to [privy-open-source/design-system](https://github.com/privy-open-source/design-system). |
+| **2017 – 2019** | Cut my teeth on JavaScript: React Native apps, Express + Sequelize APIs, GraphQL, Angular starters, and small libraries like [nominal-bilangan](https://github.com/afrijaldz/nominal-bilangan). Co-building with the [wonogiridev](https://github.com/wonogiridev) community. |
+
+## Where I contribute
+
+**Building with**
+[centuari-labs](https://github.com/centuari-labs) · [nusa-idrx](https://github.com/nusa-idrx) · [SolKnife](https://github.com/SolKnife) · [novaria-defi](https://github.com/novaria-defi) · [privy-open-source](https://github.com/privy-open-source)
+
+**Community**
+[DevWeb3Jogja](https://github.com/DevWeb3Jogja) · [wonogiridev](https://github.com/wonogiridev) · [WonogiriSpace](https://github.com/WonogiriSpace) · [angular-indonesia](https://github.com/angular-indonesia)
+
+**Open source PRs**
+[Oppzippy/OpenSCQ30](https://github.com/Oppzippy/OpenSCQ30) (Rust) · [solana-foundation/pay-skills](https://github.com/solana-foundation/pay-skills) · [Merit-Systems/awesome-agentic-commerce](https://github.com/Merit-Systems/awesome-agentic-commerce) · [jessepollak/home](https://github.com/jessepollak/home) · [mazipan/awesome-sde-id-medium](https://github.com/mazipan/awesome-sde-id-medium)
+
 ## Tech stack
 
 **Languages**
